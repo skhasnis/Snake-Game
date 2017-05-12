@@ -1,2 +1,2 @@
 # Snake-Game
-Classic Snake Game using Java Swing 
+Classic Snake Game
