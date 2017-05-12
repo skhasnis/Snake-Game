@@ -1,5 +1,5 @@
 # Snake-Game
-Classic Snake Game
+Classic Snake Game.
 Always had fun playing games such as the Snake Game (and tetris) as child!
 
 Instructions: 
